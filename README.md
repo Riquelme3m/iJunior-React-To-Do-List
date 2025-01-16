@@ -1,4 +1,4 @@
-﻿# iJunior-Dashboard-Responsive-Layout
+﻿# iJunior-To-Do-List
 
 ## Table of Contents
 
