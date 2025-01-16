@@ -43,8 +43,12 @@ const Todo = () => {
   }
 
   function deleteTask(index) {
+    // Remove the task from the state
     const updatedTasks = tasks.filter((_, i) => i !== index);
     setTasks(updatedTasks);
+
+    // Update the tasks in localStorage after removal
+    localStorage.setItem("tasks", JSON.stringify(updatedTasks));
   }
 
   return (
