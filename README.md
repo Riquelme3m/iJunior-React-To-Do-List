@@ -10,7 +10,7 @@
 
 ### Screenshot
 
-![](screenshot.png)
+![](./To-Do-App/src/assets/screenshot.png)
 
 ### Links
 
